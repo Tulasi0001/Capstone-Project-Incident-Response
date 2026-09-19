@@ -1,0 +1,18 @@
+# Methodology
+
+The assessment followed the following workflow:
+
+1. Reconnaissance
+2. Scanning and Enumeration
+3. Vulnerability Assessment
+4. Controlled Exploitation
+5. Evidence Collection
+6. Incident Detection
+7. Incident Analysis
+8. Containment
+9. Eradication
+10. Recovery
+11. Verification
+12. Reporting
+
+The methodology was performed within the controlled laboratory environment.
